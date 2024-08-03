@@ -1121,6 +1121,15 @@ paths:
                     application/json:
                         schema:
                             $ref: "#/components/schemas/CreateSpeechRequest"
+                            type: object
+                            properties:
+                                text:
+                                    type: string
+                                    description: The text to convert to speech.
+                                    example: "Hello, world"
+                                required:
+                                    - text
+                            
             responses:
                 "200":
                     description: OK
