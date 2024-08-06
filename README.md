@@ -80,7 +80,7 @@ openAIKey="..."
 ```
 
 ### Step 4: Run the program
-Use the `bal run -- audio.mp3` command to compile and run the Ballerina program.
+Use the `bal run -- audio.mp3` command to compile and run the Ballerina program. Add the file path of `audio.mp3` to this command.
 
 ## Examples
 
