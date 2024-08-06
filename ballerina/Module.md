@@ -23,7 +23,7 @@ To use the OpenAI Connector, you must have access to the OpenAI API through a [O
 ![saved-key](https://github.com/e19166/module-ballerinax-openai-audio/blob/docs/docs/setup/resources/saved-key.png)
 
 
-5. Store the secret key securely to use in your application 
+5.  Store the API key securely to use in your application  
 
 
 
