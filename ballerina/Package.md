@@ -1,7 +1,5 @@
 ## Overview
 
-## Overview
-
 [OpenAI](https://openai.com/), an AI research organization focused on creating friendly AI for humanity, offers the [OpenAI API](https://platform.openai.com/docs/api-reference/introduction) to access its powerful AI models for tasks like natural language processing and image generation.
 
 The `ballarinax/openai-audio` package offers APIs to connect and interact with [Audio related endpoints of OpenAI API](https://platform.openai.com/docs/api-reference/audio/create) providing access to the new DALL.E models developed by OpenAI for various audio-related tasks.
